@@ -20,8 +20,8 @@ body{
 
 #hd-cabecera h1{
     padding-top: 20px;
-    color: #616460;
-    font:  bold 50px Arial, Helvetica, sans-serif;
+    color: #000;
+    font-family: 'Questrial', sans-serif;
     
 }
 
@@ -52,7 +52,7 @@ h3{
     padding: 20px;
     display: block;
     border-radius: 30px;
-    font-family:Arial, Helvetica, sans-serif ;
+    font-family: 'Questrial', sans-serif;
 }
 
 
@@ -83,14 +83,14 @@ h3{
 #article-1{
     color: #030801;
     padding: 30px;
-    font-size: 24px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-family: 'Questrial', sans-serif;
 }
 #article-2{
     color: #030801;
     padding: 30px;
     font-size: large;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Questrial', sans-serif;
 }
 
 #article-3{
@@ -113,7 +113,7 @@ h3{
 }
 
 #article-5{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Questrial', sans-serif;
     padding: 30px;
     font-size: 20px;
     font-weight: bold;
@@ -135,18 +135,20 @@ table{
 }
 
 table, th, td {
-    border: 1px solid #0c0c0c;
-    background-color: #c0c0dd;
+ 
+    background-color: #FFFF;
     width: 60%;
     margin-left: auto;
     margin-right: auto;
     padding: 2px;
-    font-family: Arial, Helvetica, sans-serif;
+    
+    font-family: 'Questrial', sans-serif;
 }
 
 #titulo-tabla{
     color: #030a01;
     font-weight: bold;
+  
 }
 
 #img-foto{
@@ -168,7 +170,7 @@ table, th, td {
     padding-top: 10px;
     margin-top: 10px;
     border-radius: 8px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Questrial', sans-serif;
 }
 
 
@@ -183,7 +185,7 @@ table, th, td {
 
 
 #form-contacto{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Questrial', sans-serif;
     align-items: center;
     width: 90%;
     margin: auto;
@@ -210,9 +212,9 @@ table, th, td {
 
 
 #des-personal{
-    padding-left: 40px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 24px;
+    padding-left: 30px;
+    font-family: 'Questrial', sans-serif;
+    font-size: 20px;
 }
 #section-gif img{
     width: 300px;
@@ -229,6 +231,6 @@ table, th, td {
 
 #int-personal{
     padding-left: 40px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 24px;
+    font-family: 'Questrial', sans-serif;
+    font-size: 20px;
 }
